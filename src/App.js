@@ -33,7 +33,7 @@ class App extends Component {
             <div className="Header--Content">
               <div className="Header--Inline__Wrapper">
                 <img className="ProjectLogo" src={ProjectLogo} alt="crap" />
-                <h1>Social Issues Word Cloud </h1>
+                <h1>Social Cloud </h1>
               </div>
               <a href="https://github.com/SocialIssuesWordCloud">
                 <img className="GithubFlag" src={GithubFlag} alt="poop" />
