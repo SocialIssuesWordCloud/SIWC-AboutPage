@@ -21,7 +21,6 @@ import Bryan from "./bryan.jpeg";
 import Ben from "./ben.jpeg";
 
 
-
 import './App.css';
 
 class App extends Component {
